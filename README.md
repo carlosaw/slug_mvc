@@ -1,0 +1,1 @@
+Slug em padrão MVC
